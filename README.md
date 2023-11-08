@@ -65,7 +65,7 @@ def sarsa(env,
 ```
 ## OUTPUT :
 ### Optimal policy, optimal value function , success rate for the optimal policy:
-![image](https://github.com/NITHISHKUMAR-P/sarsa-learning/assets/93427017/32ce39c9-f7f6-4709-9e34-b01490ba97d0)
+![image](https://github.com/Kavya-Bollineni22/sarsa-learning/assets/75235813/3e4803de-79ac-4e80-8126-f9e3ac767e17)
 
 ### State value functions of Monte Carlo method:
 ![image](https://github.com/NITHISHKUMAR-P/sarsa-learning/assets/93427017/512fee6d-bfb1-4fd7-85b0-793100e580e6)
